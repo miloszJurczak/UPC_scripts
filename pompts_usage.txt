@@ -1,6 +1,10 @@
 PROMPT HISTORY
 ==============
 
+The following document presents representative samples of prompts and interactions utilized throughout the project workflow. 
+While these do not constitute an exhaustive log of every single query exchanged, 
+they accurately illustrate the scope, nature, and boundaries of AI tool assistance
+
 Supplementary document detailing the scope and methodology of AI usage.
 Below is a literal English translation of the conversation (original language: Polish).
 "UŻYTKOWNIK" = the author's prompts, "ASYSTENT" = the assistant's replies.
